@@ -1,0 +1,219 @@
+.content {
+    display: flex;
+    justify-content: space-between;
+}
+
+.main-photo {
+    width:30rem;
+    margin-right: 10rem;
+}
+
+
+.main-content{
+    margin: 15rem 5rem;
+}
+.main-content h1 {
+    font-size: 2.8rem;
+    text-shadow: 
+    -1px 0 black,
+    0 1px black, 
+    1px 0 black, 
+    0 -1px black;
+    
+}
+
+.main-content span {
+    background-color:#EBD96B;
+}
+
+.main-content p {
+    font-size: 1.2rem;
+}
+
+.main-content a {
+    display: block;
+    font-size: 1rem;
+    margin-top: 2rem;
+    text-decoration: none;
+    background-color: #000;
+    width: 9rem;
+    padding: 0.5rem;
+    border-radius: 10px;
+    color: #fff;
+}
+
+.main-content a:hover {
+    background-color: rgb(48, 48, 48);
+    transition: 0.5s;
+}
+.marcas {
+    display: flex;
+    justify-content: center;
+    padding-bottom: 10rem;
+}
+
+.marks {
+    width: 100%;
+    max-width: 95vw;
+}
+.novos-produtos h1 {
+    padding-left: 9rem;
+    padding-bottom: 5rem;
+    text-shadow: 
+    -1px 0 black,
+    0 1px black;
+}
+
+.novos-produtos span {
+    border-bottom: 3px solid #EBD96B;
+    
+}
+
+.produtos {
+    display: flex;
+    justify-content: space-between;
+}
+
+.produtos a {
+    font-size: 0.9rem;
+    text-decoration: none;
+    color: #000;
+}
+
+.produtos img {
+    width:15rem;
+    transition: transform 0.5s;
+}
+.produtos img:hover {
+    transform: scale(1.1);
+    cursor: pointer;
+}
+
+.promo {
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+    text-align: center;
+    align-items: center;
+    background-color: #FAE258;
+    border-radius: 20px;
+    padding: 5rem;
+}
+
+.promo-day span {
+    display: inline-block;
+    background-color: #fff;
+    padding: 0.4rem;
+    transform: rotate(-3deg);
+    
+}
+
+.promo-day p {
+    margin: 1rem;
+}
+
+.promo-day a {
+    display: inline-block;
+    margin-top: 2rem;
+    text-decoration: none;
+    background-color: #000;
+    width: 10rem;
+    padding: .8rem;
+    border-radius: 10px;
+    color: #fff;
+}
+
+.promo-day a:hover {
+    background-color: rgb(48, 48, 48);
+    transition: 0.5s;
+}
+
+.mais-produtos h1 {
+    padding: 5rem 0;
+    padding-left: 9rem;
+    text-shadow: 
+    -1px 0 black,
+    0 1px black;
+}
+
+.mais-produtos span {
+    border-bottom: 3px solid #EBD96B;
+}
+
+.novos {
+    justify-content: center; 
+    margin: 1rem 0;
+}
+
+.novos div {
+    padding-left: 3rem;
+}
+
+.novos img {
+    width: 20rem;
+}
+
+.app {
+    display: flex;
+    justify-content:center;
+    align-items: center;
+    align-content: center;
+}
+
+.store-icon {
+    width: 8rem;
+}
+
+.app div {
+   margin: 20rem 0;
+}
+.app h1 {
+    font-size: 2.8rem;
+    text-shadow: 
+    -1px 0 black,
+    0 1px black, 
+    1px 0 black, 
+    0 -1px black;
+}
+
+.app p {
+    padding: 2rem 0;
+}
+
+.celphone {
+    width: 20rem;
+}
+
+footer {
+    display: flex;
+    justify-content: space-between;
+    padding: 2rem;
+    background-color: #000;
+    color: #fff;
+    height: 30vh;
+}
+
+footer img {
+    width: 2rem;
+}
+
+footer li {
+    list-style: none;
+}
+
+.foot-1 h1 {
+    text-shadow: 
+    -1px 0 white,
+    0 1px white, 
+    1px 0 white, 
+    0 -1px white,
+    -1px -1px white,
+    1px 1px white,
+    -1px 1px white;
+
+    letter-spacing: 0.1em;
+}
+.sub {
+    text-decoration: none;
+    list-style: none;
+    color: #2C2C2C;
+}

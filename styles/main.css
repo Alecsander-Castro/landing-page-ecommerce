@@ -4,10 +4,9 @@
 }
 
 .main-photo {
-    width:30rem;
-    margin-right: 10rem;
+    min-width: 20rem;
+    padding-top: 10rem;
 }
-
 
 .main-content{
     margin: 15rem 5rem;
@@ -35,6 +34,7 @@
     font-size: 1rem;
     margin-top: 2rem;
     text-decoration: none;
+    text-align: center;
     background-color: #000;
     width: 9rem;
     padding: 0.5rem;
@@ -93,7 +93,6 @@
     margin-top: 2rem;
     margin-bottom: 2rem;
     text-align: center;
-    align-items: center;
     background-color: #FAE258;
     border-radius: 20px;
     padding: 5rem;
@@ -155,7 +154,7 @@
 .app {
     display: flex;
     justify-content:center;
-    align-items: center;
+   
     align-content: center;
 }
 

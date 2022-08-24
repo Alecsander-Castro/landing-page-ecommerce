@@ -103,7 +103,8 @@ body {
 
     .container {
         min-width: 350px;
-       
+        margin: 0.5rem;
+        padding: 0.5rem;
     }
 
     footer{

@@ -199,20 +199,21 @@ footer li {
     list-style: none;
 }
 
+.foot-contact {
+    color:  #F5E79D;
+}
+
 .foot-1 h1 {
     text-shadow: 
     -1px 0 white,
     0 1px white, 
     1px 0 white, 
-    0 -1px white,
-    -1px -1px white,
-    1px 1px white,
-    -1px 1px white;
+    0 -1px white;
 
     letter-spacing: 0.1em;
 }
 .sub {
     text-decoration: none;
     list-style: none;
-    color: #2C2C2C;
+    color: #cfcbcb;
 }
